@@ -1,2 +1,2 @@
-# My-Python
-my first course in python
+# Number Guessing Game
+
